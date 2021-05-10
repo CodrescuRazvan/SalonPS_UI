@@ -1,0 +1,2 @@
+D:\Proiecte faculta\PS\SalonProject\Model\obj\Debug\SalonProject.Model.csprojAssemblyReference.cache
+D:\Proiecte faculta\PS\SalonProject\Model\obj\Debug\SalonProject.Model.csproj.CoreCompileInputs.cache

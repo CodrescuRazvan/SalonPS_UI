@@ -1,0 +1,7 @@
+D:\Proiecte faculta\PS\SalonProject\BL\bin\Debug\BL.exe.config
+D:\Proiecte faculta\PS\SalonProject\BL\bin\Debug\BL.exe
+D:\Proiecte faculta\PS\SalonProject\BL\bin\Debug\BL.pdb
+D:\Proiecte faculta\PS\SalonProject\BL\obj\Debug\SalonProject.BL.csprojAssemblyReference.cache
+D:\Proiecte faculta\PS\SalonProject\BL\obj\Debug\SalonProject.BL.csproj.CoreCompileInputs.cache
+D:\Proiecte faculta\PS\SalonProject\BL\obj\Debug\BL.exe
+D:\Proiecte faculta\PS\SalonProject\BL\obj\Debug\BL.pdb
